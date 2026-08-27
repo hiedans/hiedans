@@ -22,7 +22,7 @@ I enjoy turning raw, messy data into **clear, actionable insights** that support
 ### 👩‍💻 Background
 
 - 🎓 PhD in Information and Communication Technology — Sapienza University of Rome
-- 🔬 Industry R&D collaborations with Hydro Alunorte, Compass UOL, Agropalma, and Biopalma
+- 🔬 Industry R&D collaborations with Eletronorte PA - Brazil.
 - 📈 Experience building predictive models and analysing complex datasets
 - 💬 Skilled at translating technical findings into business-relevant insights
 - 🧠 Strong foundation in statistics, machine learning, and data storytelling
